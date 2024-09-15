@@ -12,7 +12,7 @@ An entity can be a word or series of words that consistently refer to the same t
 But we need to find the entities from the images. So for this purpose, we need to extract text from the images, so for extracting text we are a technique called OCR.
 
 
-<h1> What is Optimal character recognition(OCR)? </h1>
+<h1> What is Optical Character Recognition(OCR)? </h1>
 
 OCR stands for Optical Character Recognition. It is widespread technology to recognize text inside images, such as scanned documents and photos. OCR is used to convert any kind of image containing text like(typed handwritten or printed) into machine-readable text format.
 
